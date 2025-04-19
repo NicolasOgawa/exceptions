@@ -7,7 +7,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        final long serialVersionUID = 1L;
 
         Scanner sc = new Scanner(System.in);
 
